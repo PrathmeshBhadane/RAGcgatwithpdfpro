@@ -1,4 +1,4 @@
-﻿# AI Doc Scrap System
+﻿# AI chat with pdf system
 
 A lightweight PDF document processing and retrieval prototype built with Python. This repository is designed to ingest PDF content, create a searchable vector store, and support retrieval-augmented generation for document-based question answering.
 
